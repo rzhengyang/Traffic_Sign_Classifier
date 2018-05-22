@@ -124,14 +124,14 @@ If an iterative approach was chosen:
 
 Here are five German traffic signs that I found on the web:
 
-![1][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/1.jpg]
-![2][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/2.jpg] 
-![3][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/3.jpg] 
-![4][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/4.jpg] 
-![5][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/5.jpg] 
-![6][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/6.jpg] 
-![7][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/7.jpg]  
-![8][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/8.jpg] 
+![1](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/1.jpg)
+![2](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/2.jpg) 
+![3](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/3.jpg) 
+![4](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/4.jpg) 
+![5](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/5.jpg) 
+![6](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/6.jpg) 
+![7](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/7.jpg)  
+![8](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/8.jpg) 
 
 
 The 4-8 images difficult to classify because its have different enviorment signal around.
