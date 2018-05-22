@@ -124,7 +124,7 @@ If an iterative approach was chosen:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
+![alt text][./test pic out/1.jpg] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
 
 The 4-8 images difficult to classify because its have different enviorment signal around.
@@ -132,8 +132,7 @@ The 4-8 images difficult to classify because its have different enviorment signa
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
 Here are the results of the prediction:
-37, 38, 1, 36, 4,8,17,25
-37,38,14,36, 1, 6, 17, 41
+
 | Image                    |    Prediction                                | 
 |:---------------------:|:---------------------------------------------:| 
 | Go straight or left              | Go straight or left                                       | 
@@ -150,6 +149,7 @@ The model was able to correctly guess 4 of the 8 traffic signs, which gives an a
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
+![alt text][./result.jpg] 
 
 
 
