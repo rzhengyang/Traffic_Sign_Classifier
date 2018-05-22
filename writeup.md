@@ -53,7 +53,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data range.
 
-![ax](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/ax.png1)
+![ax](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/ax.png)
 
 ### Design and Test a Model Architecture
 
