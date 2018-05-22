@@ -51,9 +51,9 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Here is an exploratory visualization of the data set. It is a bar chart showing how the data range.
 
-![alt text][image1]
+![ax](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/ax.png1)
 
 ### Design and Test a Model Architecture
 
@@ -63,14 +63,10 @@ As a first step, I decided to convert the images to grayscale because it can red
 
 Here is an example of a traffic sign image before and after grayscaling.
 
-![alt text][image2]
+![gray](https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/gray.png)
 
 
 As a last step, I normalized the image data because we can use the same stander to produce all pics.
-
-
-![alt text][image3]
-
 
 
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
