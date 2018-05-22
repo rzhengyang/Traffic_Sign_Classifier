@@ -124,8 +124,15 @@ If an iterative approach was chosen:
 
 Here are five German traffic signs that I found on the web:
 
-![alt text][./test pic out/1.jpg] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+![1][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/1.jpg]
+![2][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/2.jpg] 
+![3][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/3.jpg] 
+![4][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/4.jpg] 
+![5][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/5.jpg] 
+![6][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/6.jpg] 
+![7][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/7.jpg]  
+![8][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/test%20pic%20out/8.jpg] 
+
 
 The 4-8 images difficult to classify because its have different enviorment signal around.
 
@@ -149,7 +156,7 @@ The model was able to correctly guess 4 of the 8 traffic signs, which gives an a
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability. (OPTIONAL: as described in the "Stand Out Suggestions" part of the rubric, visualizations can also be provided such as bar charts)
 
-![alt text][./result.jpg] 
+![result][https://github.com/rzhengyang/Traffic_Sign_Classifier/blob/master/result.jpg] 
 
 
 
